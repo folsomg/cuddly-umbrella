@@ -1,6 +1,6 @@
 // Configuration file
 module.exports = {
-    port: process.env.PORT || 3000,
+    port: process.env.PORT || 3000, // updated
     env: process.env.NODE_ENV || 'development',
     db: {
         host: process.env.DB_HOST || 'localhost',
