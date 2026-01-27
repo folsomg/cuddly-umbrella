@@ -5,5 +5,5 @@ console.log('Welcome to cuddly-umbrella');
 function init() {
     console.log('Application initialized');
 }
-
+ // updated
 init();
